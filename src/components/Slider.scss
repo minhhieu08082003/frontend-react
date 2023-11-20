@@ -1,0 +1,17 @@
+/* Slider.css */
+
+.slider {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .slide {
+    display: none;
+    width: 100%;
+    height: auto;
+  }
+  
+  .active {
+    display: block;
+  }
+  
